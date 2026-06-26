@@ -72,3 +72,8 @@ Contexto: detectamos que un candidato recibió dos ofertas para el mismo puesto 
 Aprendizajes
 Lo que cambiaríamos: definir desde el principio una única fuente de información antes de migrar a una herramienta nueva, en lugar de dejar que cada persona elija cuál usar. La causa no fue que alguien se equivocó — fue que el proceso permitía que dos sistemas convivieran sin comunicarse entre sí.
 
+
+Reflexión sobre feedback radicalmente sincero
+Cuando se detectó el problema, mi primer impulso fue buscar quién se había equivocado. Antes de decir nada, me tomé un momento y, siguiendo lo que vimos en el curso, encaré la conversación con el equipo desde el proceso y no desde la persona: “Noté que hay candidatos que se están cargando en dos lugares distintos — quiero entender juntos cómo evitamos que esto se repita.” Eso evitó que la conversación se sintiera como una acusación y abrió espacio para que el equipo propusiera la solución sin sentirse señalado.
+
+
